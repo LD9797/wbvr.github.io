@@ -1,0 +1,707 @@
+
+[
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2020",
+        "value": 6.71066999435425,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2019",
+        "value": 6.79584980010986,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2018",
+        "value": 6.76991987228394,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2017",
+        "value": 7.06980991363525,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2016",
+        "value": 6.89395999908447,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2015",
+        "value": 6.87349987030029,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2014",
+        "value": 6.67952013015747,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2013",
+        "value": 6.68739986419678,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2012",
+        "value": 6.58239984512329,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2011",
+        "value": 6.37988996505737,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2010",
+        "value": 6.56574010848999,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2020",
+        "value": 6.43843984603882,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2019",
+        "value": 4.91284990310669,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2018",
+        "value": 6.05646991729736,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2017",
+        "value": 4.93701982498169,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2016",
+        "value": 5.15961980819702,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2015",
+        "value": 6.41297006607056,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2014",
+        "value": 7.0901198387146,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2013",
+        "value": 5.87492990493774,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2012",
+        "value": 6.29972791671753,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2011",
+        "value": 6.09999990463257,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2010",
+        "value": 6.80000019073486,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2020",
+        "value": 4.63000011444092,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2019",
+        "value": 4.59999990463257,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2018",
+        "value": 4.46999979019165,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2017",
+        "value": 4.35769987106323,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2016",
+        "value": 4.08114004135132,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2015",
+        "value": 4.07843017578125,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2014",
+        "value": 4.08329010009766,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2013",
+        "value": null,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2012",
+        "value": null,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2011",
+        "value": null,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2010",
+        "value": 4.48424005508423,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2020",
+        "value": 3.90606999397278,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2019",
+        "value": 3.12736010551453,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2018",
+        "value": 2.8829300403595,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2017",
+        "value": 2.88224005699158,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2016",
+        "value": 2.84608006477356,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2015",
+        "value": 2.83628988265991,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2014",
+        "value": 2.81682443618774,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2013",
+        "value": 3.40000009536743,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2012",
+        "value": null,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2011",
+        "value": 3.15900993347168,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2010",
+        "value": null,
+        "unit": 1000,
+        "obs_status": "",
+        "decimal": 1
+    }
+]
