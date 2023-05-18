@@ -1,0 +1,1730 @@
+[
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2000",
+        "value": 5.87,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2001",
+        "value": 6.83,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2002",
+        "value": 5.98,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2003",
+        "value": 5.4,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2004",
+        "value": 4.32,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2005",
+        "value": 3.74,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2006",
+        "value": 3.53,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2007",
+        "value": 3.41,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2008",
+        "value": 5.71,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2009",
+        "value": 5.72,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2010",
+        "value": 6.76,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2011",
+        "value": 6.36,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2013",
+        "value": 7.26,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2014",
+        "value": 8.07,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2015",
+        "value": 8.57,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2016",
+        "value": 10.36,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2017",
+        "value": 12.27,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2018",
+        "value": 11.51,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2019",
+        "value": 13.11,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2020",
+        "value": 13.52,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2021",
+        "value": 16.11,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2022",
+        "value": 15.35,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2016",
+        "value": 14.51,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2019",
+        "value": 17.15,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1999",
+        "value": 11.32,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2005",
+        "value": 9.09,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2006",
+        "value": 9.09,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2016",
+        "value": 7.82,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2019",
+        "value": 12.33,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2008",
+        "value": 15.98,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2009",
+        "value": 17.88,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2010",
+        "value": 18.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2011",
+        "value": 19.91,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2012",
+        "value": 21.21,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2013",
+        "value": 21.97,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2014",
+        "value": 19.94,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2015",
+        "value": 21.64,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2016",
+        "value": 20.73,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2017",
+        "value": 20.81,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2018",
+        "value": 22.25,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2020",
+        "value": 16.05,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2021",
+        "value": 15.28,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]

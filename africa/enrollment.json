@@ -1,0 +1,2754 @@
+[
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1981",
+        "value": 84.9315567016602,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1982",
+        "value": 81.758903503418,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1986",
+        "value": 80.1665573120117,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1987",
+        "value": 81.2630310058594,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1988",
+        "value": 81.1970520019531,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1989",
+        "value": 105.25611114502,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1990",
+        "value": 104.805740356445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1991",
+        "value": 105.604148864746,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1994",
+        "value": 109.411567687988,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1995",
+        "value": 110.88697052002,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1997",
+        "value": 108.843223571777,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1998",
+        "value": 107.464241027832,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1999",
+        "value": 107.097930908203,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2000",
+        "value": 101.489212036133,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2001",
+        "value": 101.990463256836,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2002",
+        "value": 103.968452453613,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2003",
+        "value": 105.426368713379,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2004",
+        "value": 106.446632385254,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2005",
+        "value": 105.948272705078,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2006",
+        "value": 106.250091552734,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2007",
+        "value": 108.024749755859,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2008",
+        "value": 107.526397705078,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2009",
+        "value": 106.341697692871,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2010",
+        "value": 104.729377746582,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2011",
+        "value": 103.418388366699,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2012",
+        "value": 103.229202270508,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2013",
+        "value": 102.670402526855,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2014",
+        "value": 102.704963684082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2015",
+        "value": 105.570388793945,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2016",
+        "value": 103.184959411621,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2017",
+        "value": 100.864730834961,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2018",
+        "value": 98.5389022827148,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2019",
+        "value": 98.3744735717773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2020",
+        "value": 97.4091262817383,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1980",
+        "value": 94.8393630981445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1981",
+        "value": 103.068893432617,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1982",
+        "value": 112.761016845703,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1983",
+        "value": 113.078826904297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1984",
+        "value": 111.835800170898,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1985",
+        "value": 106.283012390137,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1986",
+        "value": 93.4908905029297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1987",
+        "value": 89.7366027832031,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1988",
+        "value": 85.3894195556641,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1989",
+        "value": 83.0452499389648,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1990",
+        "value": 86.4915618896484,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1991",
+        "value": 85.6464614868164,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1992",
+        "value": 89.7044525146484,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1993",
+        "value": 93.8184661865234,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1994",
+        "value": 93.6066665649414,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1995",
+        "value": 89.3006134033203,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1996",
+        "value": 78.6634826660156,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1999",
+        "value": 94.1128997802734,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2000",
+        "value": 98.6894989013672,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2001",
+        "value": 96.3755722045898,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2002",
+        "value": 98.0053100585938,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2003",
+        "value": 99.4670562744141,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2004",
+        "value": 100.676986694336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2005",
+        "value": 101.365081787109,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2006",
+        "value": 102.108131408691,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2007",
+        "value": 93.3100433349609,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2008",
+        "value": 84.1386413574219,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2009",
+        "value": 85.3878402709961,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2010",
+        "value": 85.1178512573242,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2011",
+        "value": 90.6712417602539,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2012",
+        "value": 92.0911407470703,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2013",
+        "value": 94.1185302734375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2014",
+        "value": 90.1035537719727,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2015",
+        "value": 86.4272537231445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2016",
+        "value": 84.7256393432617,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2017",
+        "value": 79.0839385986328,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2018",
+        "value": 87.454231262207,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2019",
+        "value": 85.7302474975586,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1980",
+        "value": 118.171272277832,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1981",
+        "value": 114.344253540039,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1982",
+        "value": 115.693771362305,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1983",
+        "value": 114.734359741211,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1984",
+        "value": 110.051490783691,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1985",
+        "value": 104.926376342773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1986",
+        "value": 104.371711730957,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1987",
+        "value": 103.657669067383,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1988",
+        "value": 101.677040100098,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1989",
+        "value": 102.208351135254,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1990",
+        "value": 98.7761535644531,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1991",
+        "value": 96.6375122070313,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1992",
+        "value": 95.2903137207031,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1993",
+        "value": 94.5710067749023,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1994",
+        "value": 91.2588119506836,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1995",
+        "value": 89.1870727539063,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1998",
+        "value": 90.3892288208008,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1999",
+        "value": 88.9767532348633,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2000",
+        "value": 93.1874618530273,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2001",
+        "value": 94.3810501098633,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2002",
+        "value": 88.2417907714844,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2003",
+        "value": 101.822418212891,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2004",
+        "value": 100.443893432617,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2005",
+        "value": 99.3462905883789,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2006",
+        "value": 96.347541809082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2007",
+        "value": 102.365493774414,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2008",
+        "value": 102.284797668457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2009",
+        "value": 103.914497375488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2012",
+        "value": 109.41773223877,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2014",
+        "value": 105.753410339355,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2015",
+        "value": 103.661567687988,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2016",
+        "value": 103.205337524414,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2019",
+        "value": 77.3160858154297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1980",
+        "value": 69.3375701904297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1981",
+        "value": 70.3290863037109,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1982",
+        "value": 72.3507995605469,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1983",
+        "value": 75.2289123535156,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1984",
+        "value": 77.9579696655273,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1985",
+        "value": 80.5362777709961,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1986",
+        "value": 82.9874267578125,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1987",
+        "value": 85.6951065063477,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1988",
+        "value": 88.2146530151367,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1989",
+        "value": 89.0287704467773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1990",
+        "value": 91.0153274536133,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1991",
+        "value": 93.4629898071289,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1992",
+        "value": 85.2852325439453,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1993",
+        "value": 86.0958786010742,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1994",
+        "value": 95.5085830688477,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1995",
+        "value": 88.3123474121094,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1996",
+        "value": 97.1400985717773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1997",
+        "value": 96.4291305541992,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1999",
+        "value": 94.4224090576172,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2000",
+        "value": 93.8213195800781,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2001",
+        "value": 93.9689865112305,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2002",
+        "value": 94.7885284423828,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2003",
+        "value": 95.3343734741211,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2004",
+        "value": 95.7111434936523,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2005",
+        "value": 95.706672668457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2006",
+        "value": 97.2613220214844,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2007",
+        "value": 98.3864974975586,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2009",
+        "value": 101.382568359375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2010",
+        "value": 102.285339355469,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2011",
+        "value": 99.1844863891602,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2012",
+        "value": 104.779739379883,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2013",
+        "value": 105.094429016113,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2014",
+        "value": 103.871536254883,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2016",
+        "value": 105.393577575684,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2017",
+        "value": 106.13346862793,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2018",
+        "value": 106.284927368164,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2019",
+        "value": 106.409561157227,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]

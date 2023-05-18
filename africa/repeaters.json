@@ -1,0 +1,2754 @@
+[
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1991",
+        "value": 12.33967,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1998",
+        "value": 7.9732,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1999",
+        "value": 10.38967,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2000",
+        "value": 8.7918,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2001",
+        "value": 9.36351,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2002",
+        "value": 7.40127,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2003",
+        "value": 5.21703,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2004",
+        "value": 7.96037,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2015",
+        "value": 9.24749,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2016",
+        "value": 8.78802,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1980",
+        "value": 12.90393,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1981",
+        "value": 13.19681,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2004",
+        "value": 5.84329,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2005",
+        "value": 5.82757,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2014",
+        "value": 5.11972,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2015",
+        "value": 3.4194,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2016",
+        "value": 2.93974,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1980",
+        "value": 6.75863,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1981",
+        "value": 7.85967,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1982",
+        "value": 2.65887,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1983",
+        "value": 2.06301,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1986",
+        "value": 1.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1987",
+        "value": 2.76102,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1997",
+        "value": 6.4812,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1999",
+        "value": 5.97526,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2000",
+        "value": 5.49776,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2001",
+        "value": 5.22507,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2002",
+        "value": 5.13399,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2003",
+        "value": 4.5205,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2004",
+        "value": 3.97704,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2005",
+        "value": 2.15118,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2009",
+        "value": 3.34011,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2010",
+        "value": 3.47101,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2011",
+        "value": 3.48878,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2012",
+        "value": 3.33557,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2013",
+        "value": 3.19873,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2016",
+        "value": 3.13096,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2017",
+        "value": 2.3461,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2018",
+        "value": 2.11227,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.REPT.ZS",
+            "value": "Repeaters, primary, total (% of total enrollment)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]
