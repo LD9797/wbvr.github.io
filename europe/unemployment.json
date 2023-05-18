@@ -5,10 +5,10 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "1996",
         "value": null,
         "unit": "",
@@ -21,12 +21,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "1997",
-        "value": 3.78,
+        "value": null,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -37,12 +37,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "1998",
-        "value": null,
+        "value": 2.75,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -53,12 +53,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "1999",
-        "value": null,
+        "value": 3.32,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -69,12 +69,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "2000",
-        "value": null,
+        "value": 2.69,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -85,12 +85,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "2001",
-        "value": null,
+        "value": 2.57,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -101,12 +101,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "2002",
-        "value": null,
+        "value": 3.92,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -117,411 +117,11 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "PA",
-            "value": "Panama"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "PAN",
+        "countryiso3code": "PRT",
         "date": "2003",
-        "value": 14.07,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2004",
-        "value": 12.92,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2005",
-        "value": 11.42,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2006",
-        "value": 9.06,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2007",
-        "value": 6.77,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2008",
-        "value": 5.61,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2009",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2010",
-        "value": 4.4,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2011",
-        "value": 2.35,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2012",
-        "value": 2.66,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2013",
-        "value": 2.2,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2014",
-        "value": 3.01,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2015",
-        "value": 2.37,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2016",
-        "value": 3.83,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2017",
-        "value": 3.23,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2018",
-        "value": 4.03,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2019",
-        "value": 5.14,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2020",
-        "value": 13.23,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2021",
-        "value": 7.48,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "PA",
-            "value": "Panama"
-        },
-        "countryiso3code": "PAN",
-        "date": "2022",
-        "value": 8.32,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
-        "date": "1996",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
-        "date": "1997",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
-        "date": "1998",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
-        "date": "1999",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
-        "date": "2000",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
-        "date": "2001",
         "value": 5.35,
         "unit": "",
         "obs_status": "",
@@ -533,44 +133,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
-        "date": "2002",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
-        "date": "2003",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "NI",
-            "value": "Nicaragua"
-        },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2004",
-        "value": null,
+        "value": 4.38,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -581,12 +149,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2005",
-        "value": 7.18,
+        "value": 6.23,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -597,12 +165,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2006",
-        "value": null,
+        "value": 6.27,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -613,12 +181,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2007",
-        "value": null,
+        "value": 7.42,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -629,12 +197,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2008",
-        "value": null,
+        "value": 6.82,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -645,12 +213,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2009",
-        "value": null,
+        "value": 6.44,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -661,12 +229,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2010",
-        "value": null,
+        "value": 7,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -677,12 +245,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2011",
-        "value": null,
+        "value": 8.97,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -693,12 +261,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2012",
-        "value": 7.26,
+        "value": 11.65,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -709,12 +277,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2013",
-        "value": null,
+        "value": 12.62,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -725,12 +293,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2014",
-        "value": 7.1,
+        "value": 9.98,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -741,12 +309,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2015",
-        "value": null,
+        "value": 9.24,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -757,12 +325,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2016",
-        "value": null,
+        "value": 8.36,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -773,12 +341,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2017",
-        "value": null,
+        "value": 6.45,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -789,12 +357,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2018",
-        "value": null,
+        "value": 5.38,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -805,12 +373,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2019",
-        "value": null,
+        "value": 5.31,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -821,12 +389,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2020",
-        "value": null,
+        "value": 5.81,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -837,12 +405,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2021",
-        "value": null,
+        "value": 5.29,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -853,10 +421,10 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "NI",
-            "value": "Nicaragua"
+            "id": "PT",
+            "value": "Portugal"
         },
-        "countryiso3code": "NIC",
+        "countryiso3code": "PRT",
         "date": "2022",
         "value": null,
         "unit": "",
@@ -869,10 +437,10 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "HN",
-            "value": "Honduras"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "HND",
+        "countryiso3code": "FRA",
         "date": "1996",
         "value": null,
         "unit": "",
@@ -885,10 +453,10 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "HN",
-            "value": "Honduras"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "HND",
+        "countryiso3code": "FRA",
         "date": "1997",
         "value": null,
         "unit": "",
@@ -901,12 +469,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "HN",
-            "value": "Honduras"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "HND",
+        "countryiso3code": "FRA",
         "date": "1998",
-        "value": null,
+        "value": 7.29,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -917,12 +485,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "HN",
-            "value": "Honduras"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "HND",
+        "countryiso3code": "FRA",
         "date": "1999",
-        "value": null,
+        "value": 6.85,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -933,619 +501,11 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "HN",
-            "value": "Honduras"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "HND",
+        "countryiso3code": "FRA",
         "date": "2000",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2001",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2002",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2003",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2004",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2005",
-        "value": 4.77,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2006",
-        "value": 5.08,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2007",
-        "value": 3.77,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2008",
-        "value": 3.9,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2009",
-        "value": 4.29,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2010",
-        "value": 5.79,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2011",
-        "value": 5.89,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2012",
-        "value": 3.64,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2013",
-        "value": 6.7,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2014",
-        "value": 8.72,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2015",
-        "value": 8.95,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2016",
-        "value": 7.26,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2017",
-        "value": 7.58,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2018",
-        "value": 7.63,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2019",
-        "value": 6.58,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2020",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2021",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "HN",
-            "value": "Honduras"
-        },
-        "countryiso3code": "HND",
-        "date": "2022",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "1996",
-        "value": 4.09,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "1997",
-        "value": 3.73,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "1998",
-        "value": 3.09,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "1999",
-        "value": 3.08,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2000",
-        "value": 2.21,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2001",
-        "value": 3.96,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2002",
-        "value": 3.02,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2003",
-        "value": 3.95,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2004",
-        "value": 3.19,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2005",
-        "value": 4.95,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2006",
-        "value": 2.29,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2007",
-        "value": 1.74,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2008",
-        "value": 2.17,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2009",
-        "value": null,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2010",
-        "value": 3.97,
-        "unit": "",
-        "obs_status": "",
-        "decimal": 0
-    },
-    {
-        "indicator": {
-            "id": "SL.UEM.ADVN.ZS",
-            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
-        },
-        "country": {
-            "id": "CR",
-            "value": "Costa Rica"
-        },
-        "countryiso3code": "CRI",
-        "date": "2011",
         "value": 5.55,
         "unit": "",
         "obs_status": "",
@@ -1557,12 +517,188 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
+        "date": "2001",
+        "value": 4.85,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2002",
+        "value": 5.49,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2003",
+        "value": 5.84,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2004",
+        "value": 6.42,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2005",
+        "value": 6.4,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2006",
+        "value": 6.18,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2007",
+        "value": 5.78,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2008",
+        "value": 4.85,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2009",
+        "value": 5.88,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2010",
+        "value": 5.62,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2011",
+        "value": 5.7,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
         "date": "2012",
-        "value": 5.73,
+        "value": 5.69,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1573,12 +709,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2013",
-        "value": 4.32,
+        "value": 6.25,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1589,12 +725,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2014",
-        "value": 5.34,
+        "value": 6.31,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1605,12 +741,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2015",
-        "value": 5.85,
+        "value": 6.3,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1621,12 +757,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2016",
-        "value": 4.65,
+        "value": 5.7,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1637,12 +773,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2017",
-        "value": 4.35,
+        "value": 5.22,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1653,12 +789,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2018",
-        "value": 5.11,
+        "value": 5.43,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1669,12 +805,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2019",
-        "value": 6.1,
+        "value": 5.1,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1685,12 +821,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2020",
-        "value": 8.93,
+        "value": 5.21,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1701,12 +837,12 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2021",
-        "value": 7.5,
+        "value": 5.3,
         "unit": "",
         "obs_status": "",
         "decimal": 0
@@ -1717,12 +853,876 @@
             "value": "Unemployment with advanced education (% of total labor force with advanced education)"
         },
         "country": {
-            "id": "CR",
-            "value": "Costa Rica"
+            "id": "FR",
+            "value": "France"
         },
-        "countryiso3code": "CRI",
+        "countryiso3code": "FRA",
         "date": "2022",
-        "value": 6.51,
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1998",
+        "value": 15.27,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1999",
+        "value": 12.76,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2000",
+        "value": 10.85,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2001",
+        "value": 7.82,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2002",
+        "value": 8.69,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2003",
+        "value": 8.24,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2004",
+        "value": 8.27,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2005",
+        "value": 6.73,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2006",
+        "value": 5.99,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2007",
+        "value": 5.25,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2008",
+        "value": 6.3,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2009",
+        "value": 9.65,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2010",
+        "value": 11.15,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2011",
+        "value": 12.48,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2012",
+        "value": 14.89,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2013",
+        "value": 15.98,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2014",
+        "value": 14.75,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2015",
+        "value": 13.19,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2016",
+        "value": 11.67,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2017",
+        "value": 9.97,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2018",
+        "value": 8.91,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2019",
+        "value": 8.61,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2020",
+        "value": 10.23,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2021",
+        "value": 9.21,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1998",
+        "value": 5.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1999",
+        "value": 5.03,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2000",
+        "value": 4.26,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2001",
+        "value": 4.13,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2002",
+        "value": 4.26,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2003",
+        "value": 4.97,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2004",
+        "value": 5.4,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2005",
+        "value": 5.51,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2006",
+        "value": 4.79,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2007",
+        "value": 3.82,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2008",
+        "value": 3.31,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2009",
+        "value": 3.39,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2010",
+        "value": 3.02,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2011",
+        "value": 2.37,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2012",
+        "value": 2.31,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2013",
+        "value": 2.35,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2014",
+        "value": 2.47,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2015",
+        "value": 2.32,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2016",
+        "value": 2.19,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2017",
+        "value": 1.98,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2018",
+        "value": 1.87,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2019",
+        "value": 1.81,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2020",
+        "value": 2.55,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2021",
+        "value": 2.42,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SL.UEM.ADVN.ZS",
+            "value": "Unemployment with advanced education (% of total labor force with advanced education)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2022",
+        "value": null,
         "unit": "",
         "obs_status": "",
         "decimal": 0
