@@ -97,7 +97,7 @@
                 <a-sky src="#sky"></a-sky>
 
                 <!-- Information popup -->
-                <a-entity id="fivesurvey" position="0 0 0" dialog-popup="
+                <a-entity id="fivesurvey" position="-4 2 4" dialog-popup="
                 openIconImage: /assets/information-button.png;
                 closeIconImage: /assets/information-button.png;
                 title: Instructions;
@@ -127,7 +127,7 @@
                                 <a-entity id="3dbar"
                                 babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                 from: CAEnrollment;
-                                legend: true; palette: bussiness; animation: false; heightMax:35;'
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"]   ; animation: false; heightMax:35;'
                                 position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                         </a-entity>      
 
@@ -137,14 +137,14 @@
                                 <a-entity id="3dbar"
                                 babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                 from: CARepeaters;
-                                legend: true; palette: bussiness; animation: false; heightMax:35;'
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false; heightMax:35;'
                                 position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                         </a-entity>
                         
 
                         <!-- School enrollment, primary and secondary ( % gross) Balls 3 -->                        
                         <a-entity id="ball" babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: CAEnrollment;
-                                        x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: pearl; animation: false;'
+                                        x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false;'
                                         position="19 -4.5 -33" rotation="0 0 0" scale="0.03 0.03 0.03" ></a-entity>        
                                                                                     
 
@@ -152,21 +152,21 @@
                         <a-entity id="3dbar"
                                 babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                 from: CALiteracy;
-                                legend: true; palette: bussiness; animation: false; heightMax:35;'
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false; heightMax:35;'
                                 position="19 -4.5 -25" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>
 
 
                         <!-- Government expenditure on education, total (% of GDP) 5 -->
                           <a-entity id="bar"
                           babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: CAExpenditure;
-                          x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: pearl; animation: false;'
+                          x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false;'
                                   position="19 -2.5 -25" rotation="0 0 0" scale="0.03 0.03 0.03"></a-entity>        
 
 
                         <!-- Unemployment with advanced education (% of total labor force with advanced education) -->
                         <a-entity id="bar"
                                 babia-barsmap='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: CAUnemployment;
-                                  x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: bussiness; animation: false;'
+                                  x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false;'
                                           position="19 -2.5 -33" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>       
                                 
 
@@ -180,7 +180,7 @@
                                <a-entity id="3dbar"
                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                from: EUEnrollment;
-                               legend: true; palette: bussiness; animation: false; heightMax:35;'
+                               legend: true; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false; heightMax:35;'
                                position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                        </a-entity>      
 
@@ -190,14 +190,14 @@
                                <a-entity id="3dbar"
                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                from: EURepeaters;
-                               legend: true; palette: bussiness; animation: false; heightMax:35;'
+                               legend: true; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false; heightMax:35;'
                                position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                        </a-entity>
                        
 
                        <!-- School enrollment, primary and secondary ( % gross) Balls 3 -->                        
                        <a-entity id="ball" babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: EUEnrollment;
-                                       x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: pearl; animation: false;'
+                                       x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false;'
                                        position="19 -4.5 -13" rotation="0 0 0" scale="0.03 0.03 0.03" ></a-entity>        
                                                                                    
 
@@ -205,21 +205,21 @@
                        <a-entity id="3dbar"
                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                from: EULiteracy;
-                               legend: true; palette: bussiness; animation: false; heightMax:35;'
+                               legend: true; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false; heightMax:35;'
                                position="19 -4.5 -5" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>
 
 
                        <!-- Government expenditure on education, total (% of GDP) 5 -->
                          <a-entity id="bar"
                          babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: EUExpenditure;
-                         x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: pearl; animation: false;'
+                         x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false;'
                                  position="19 -2.5 -5" rotation="0 0 0" scale="0.03 0.03 0.03"></a-entity>        
 
 
                        <!-- Unemployment with advanced education (% of total labor force with advanced education) -->
                        <a-entity id="bar"
                                babia-barsmap='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: EUUnemployment;
-                                 x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: bussiness; animation: false;'
+                                 x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false;'
                                          position="19 -2.5 -13" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>       
 
 
@@ -235,7 +235,7 @@
                                <a-entity id="3dbar"
                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                from: AFEnrollment;
-                               legend: true; palette: bussiness; animation: false; heightMax:35;'
+                               legend: true; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
                                position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                        </a-entity>      
 
@@ -245,14 +245,14 @@
                                <a-entity id="3dbar"
                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                from: AFRepeaters;
-                               legend: true; palette: bussiness; animation: false; heightMax:35;'
+                               legend: true; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
                                position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                        </a-entity>
                        
 
                        <!-- School enrollment, primary and secondary ( % gross) Balls 3 -->                        
                        <a-entity id="ball" babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: AFEnrollment;
-                                       x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: pearl; animation: false;'
+                                       x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
                                        position="19 -4.5 7" rotation="0 0 0" scale="0.03 0.03 0.03" ></a-entity>        
                                                                                    
 
@@ -260,21 +260,21 @@
                        <a-entity id="3dbar"
                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                from: AFLiteracy;
-                               legend: true; palette: bussiness; animation: false; heightMax:35;'
+                               legend: true; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
                                position="19 -4.5 15" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>
 
 
                        <!-- Government expenditure on education, total (% of GDP) 5 -->
                          <a-entity id="bar"
                          babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: AFExpenditure;
-                         x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: pearl; animation: false;'
+                         x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
                                  position="19 -2.5 15" rotation="0 0 0" scale="0.03 0.03 0.03"></a-entity>        
 
 
                        <!-- Unemployment with advanced education (% of total labor force with advanced education) -->
                        <a-entity id="bar"
                                babia-barsmap='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: AFUnemployment;
-                                 x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: bussiness; animation: false;'
+                                 x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
                                          position="19 -2.5 7" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>       
 
 
@@ -286,7 +286,7 @@
                                 <a-entity id="3dbar"
                                 babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                 from: ALLEnrollment;
-                                legend: true; palette: bussiness; animation: false; heightMax:35;'
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
                                 position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                         </a-entity>      
 
@@ -296,7 +296,7 @@
                                 <a-entity id="3dbar"
                                 babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                 from: ALLRepeaters;
-                                legend: true; palette: bussiness; animation: false; heightMax:35;'
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
                                 position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                         </a-entity>    
 
@@ -306,7 +306,7 @@
                                 <a-entity id="3dbar"
                                 babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                 from: ALLLiteracy;
-                                legend: true; palette: bussiness; animation: false; heightMax:35;'
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
                                 position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                         </a-entity>  
 
@@ -314,7 +314,7 @@
                         <a-entity position="6 4 10" lounge-plinth="width: 8.5; depth: 4" lounge-staydown rotation="0 270 0">
                                 <a-entity id="3dbar"
                                 babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: ALLExpenditure;
-                                x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: pearl; animation: false;'
+                                x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
                                 position="-3.25 0.275 1" rotation="0 90 0" scale="0.03 0.03 0.03"></a-entity>
                         </a-entity>  
 
@@ -324,7 +324,7 @@
                                 <a-entity id="3dbar"
                                 babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
                                 from: ALLUnemployment;
-                                legend: true; palette: bussiness; animation: false; heightMax:35;'
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
                                 position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                         </a-entity>  
 
@@ -617,8 +617,8 @@
 
                 <!-- Controls and Camera -->
                 <a-entity lounge-entry-point>
-                        <a-entity movement-controls="fly: true" position="3 -3.5 30">
-                                <a-entity camera position="18 4 -20aw" look-controls></a-entity>
+                        <a-entity movement-controls="fly: true" position="-20 -2 30">
+                                <a-entity camera position="18 4 -20" look-controls></a-entity>
                                 <a-entity cursor="rayOrigin:mouse" raycaster="objects: .babiaxraycasterclass">
                                 </a-entity>
                                 <a-entity laser-controls="hand: right" oculus-touch-controls="hand: right" raycaster="objects: .babiaxraycasterclass">
