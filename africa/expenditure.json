@@ -1,0 +1,2754 @@
+[
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1987",
+        "value": 5.16433000564575,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1988",
+        "value": 5.29058980941772,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1989",
+        "value": 4.85255002975464,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1990",
+        "value": 5.12579011917114,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1991",
+        "value": 5.73734998703003,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1993",
+        "value": 5.88602018356323,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1994",
+        "value": 5.29777002334595,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1996",
+        "value": 5.04734992980957,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1999",
+        "value": 5.29117012023926,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2000",
+        "value": 4.90881013870239,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2001",
+        "value": 4.63617992401123,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2002",
+        "value": 4.54569005966187,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2003",
+        "value": 4.35209989547729,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2004",
+        "value": 4.50897979736328,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2005",
+        "value": 4.52449989318848,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2006",
+        "value": 4.52651977539063,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2007",
+        "value": 4.4466700553894,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2008",
+        "value": 4.37424993515015,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2009",
+        "value": 4.76118993759155,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2010",
+        "value": 5.13497018814087,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2011",
+        "value": 5.28898000717163,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2012",
+        "value": 5.52323007583618,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2013",
+        "value": 5.35071992874146,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2014",
+        "value": 5.48977994918823,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2015",
+        "value": 5.48285007476807,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2016",
+        "value": 5.4442400932312,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2017",
+        "value": 5.59867000579834,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2018",
+        "value": 5.64401006698608,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2019",
+        "value": 5.9177098274231,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2020",
+        "value": 6.19288015365601,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2021",
+        "value": 6.60466003417969,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2010",
+        "value": 0.466383695602417,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2011",
+        "value": 0.582609355449677,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2012",
+        "value": 0.545457303524017,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2013",
+        "value": 0.525614321231842,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1980",
+        "value": 5.38787984848022,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1981",
+        "value": 5.92372989654541,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1982",
+        "value": 5.67812013626099,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1983",
+        "value": 5.43830013275146,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1984",
+        "value": 4.58095979690552,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1985",
+        "value": 5.19976997375488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1986",
+        "value": 6.01379013061523,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1988",
+        "value": 6.60055017471313,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1989",
+        "value": 6.035719871521,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1991",
+        "value": 6.57067012786865,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1992",
+        "value": 6.07590007781982,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1993",
+        "value": 6.02915000915527,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1994",
+        "value": 5.9240198135376,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1999",
+        "value": 5.32323980331421,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2000",
+        "value": 5.1867299079895,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2001",
+        "value": 5.20621013641357,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2002",
+        "value": 6.17199993133545,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2003",
+        "value": 6.49426984786987,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2004",
+        "value": 6.79692983627319,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2005",
+        "value": 7.3356499671936,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2006",
+        "value": 7.04983997344971,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2010",
+        "value": 4.81548976898193,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2011",
+        "value": 4.70012998580933,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2012",
+        "value": 4.93121004104614,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2013",
+        "value": 4.83721017837524,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2014",
+        "value": 4.7172999382019,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2015",
+        "value": 4.74350023269653,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2016",
+        "value": 4.89518022537231,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2017",
+        "value": 4.96308994293213,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2018",
+        "value": 5.10761976242065,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2019",
+        "value": 4.97439002990723,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2020",
+        "value": 5.07996988296509,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2021",
+        "value": 4.79903984069824,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1980",
+        "value": 4.2803201675415,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1982",
+        "value": 5.60830020904541,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1983",
+        "value": 5.22148990631104,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1988",
+        "value": 4.52521991729736,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1989",
+        "value": 4.6000599861145,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1992",
+        "value": 4.05067014694214,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1993",
+        "value": 4.19770002365112,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1994",
+        "value": 4.58375978469849,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1995",
+        "value": 4.60400009155273,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1996",
+        "value": 4.67156982421875,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2003",
+        "value": 4.94563007354736,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2004",
+        "value": 4.67072010040283,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2005",
+        "value": 4.79442977905273,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2006",
+        "value": 4.00178003311157,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2007",
+        "value": 3.68460988998413,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2008",
+        "value": 3.76082992553711,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2010",
+        "value": 3.54264998435974,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2011",
+        "value": 3.34430003166199,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2012",
+        "value": 3.36829996109009,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2013",
+        "value": 4.12252998352051,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2014",
+        "value": 4.25138998031616,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2015",
+        "value": 3.9308500289917,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2016",
+        "value": 4.05000019073486,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2019",
+        "value": 2.60999989509583,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2020",
+        "value": 2.48000001907349,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    },
+    {
+        "indicator": {
+            "id": "SE.XPD.TOTL.GD.ZS",
+            "value": "Government expenditure on education, total (% of GDP)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+    }
+]

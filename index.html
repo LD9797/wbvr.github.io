@@ -58,32 +58,46 @@
                         <img id="sky" src="assets/360-panorama.jpg">
                         <img id="floor" src="assets/floor-texture.jpg">
                         <img id="metalic" src="assets/metalic-texture.jpg">
+                        <img id="central-america-flag" src="central_america/flag.png">
+                        <img id="europe-flag" src="europe/flag.jpg">
+                        <img id="africa-flag" src="africa/flag.png">
                 </a-assets>
 
                 <!-- Querier Components -->
-                <a-entity id="continentsdata" babia-queryjson="url: data_examples/CAChildrenFe.json;"></a-entity>
-                <a-entity id="CRChildrenFemale" babia-queryjson="url: costa_rica/CRChildrenFe.json;"></a-entity>
-                <a-entity id="CRChildrenMale" babia-queryjson="url: costa_rica/CRChildrenMa.json;"></a-entity>
-                <a-entity id="CRLiteracyFe" babia-queryjson="url: costa_rica/CRLiteracyFe.json;"></a-entity>
-                <a-entity id="CRLiteracyMale" babia-queryjson="url: costa_rica/CRLiteracyMa.json;"></a-entity>
-
-                <a-entity id="CRPrimaryFe" babia-queryjson="url: costa_rica/CRPrimaryFe.json;"></a-entity>
-                <a-entity id="CRPrimaryMa" babia-queryjson="url: costa_rica/CRPrimaryMA.json;"></a-entity>
-
-                <a-entity id="CREnrollmentGPI" babia-queryjson="url: costa_rica/CREnrollmentGPI.json;"></a-entity>
-
-
                 <!-- Central America -->
-                <a-entity id="CAPrimaryMa" babia-queryjson="url: data_examples/CAPrimaryMa.json;"></a-entity>
+                <a-entity id="CAEnrollment" babia-queryjson="url: central_america/enrollment.json;"></a-entity>
+                <a-entity id="CARepeaters" babia-queryjson="url: central_america/repeaters.json;"></a-entity>
+                <a-entity id="CALiteracy" babia-queryjson="url: central_america/literacy.json;"></a-entity>
+                <a-entity id="CAExpenditure" babia-queryjson="url: central_america/expenditure.json;"></a-entity>
+                <a-entity id="CAUnemployment" babia-queryjson="url: central_america/unemployment.json;"></a-entity>
 
 
-                <a-entity id="CAGovExp" babia-queryjson="url: data_examples/CAGovExpenditure.json;"></a-entity>
- 
+                <!-- Europe -->
+                <a-entity id="EUEnrollment" babia-queryjson="url: europe/enrollment.json;"></a-entity>
+                <a-entity id="EUExpenditure" babia-queryjson="url: europe/expenditure.json;"></a-entity>
+                <a-entity id="EULiteracy" babia-queryjson="url: europe/literacy.json;"></a-entity>
+                <a-entity id="EURepeaters" babia-queryjson="url: europe/repeaters.json;"></a-entity>
+                <a-entity id="EUUnemployment" babia-queryjson="url: europe/unemployment.json;"></a-entity>
+
+                <!-- Africa -->
+                <a-entity id="AFEnrollment" babia-queryjson="url: africa/enrollment.json;"></a-entity>
+                <a-entity id="AFRepeaters" babia-queryjson="url: africa/repeaters.json;"></a-entity>
+                <a-entity id="AFLiteracy" babia-queryjson="url: africa/literacy.json;"></a-entity>
+                <a-entity id="AFExpenditure" babia-queryjson="url: africa/expenditure.json;"></a-entity>
+                <a-entity id="AFUnemployment" babia-queryjson="url: africa/unemployment.json;"></a-entity>
+
+                <!-- ALL -->
+                <a-entity id="ALLEnrollment" babia-queryjson="url: all/enrollment.json;"></a-entity>
+                <a-entity id="ALLRepeaters" babia-queryjson="url: all/repeaters.json;"></a-entity>
+                <a-entity id="ALLLiteracy" babia-queryjson="url: all/literacy.json;"></a-entity>
+                <a-entity id="ALLExpenditure" babia-queryjson="url: all/expenditure.json;"></a-entity>
+                <a-entity id="ALLUnemployment" babia-queryjson="url: all/unemployment.json;"></a-entity>
+
                 <!-- Enviroment -->
                 <a-sky src="#sky"></a-sky>
 
                 <!-- Information popup -->
-                <a-entity id="fivesurvey" position="0 0 0" dialog-popup="
+                <a-entity id="fivesurvey" position="-4 2 4" dialog-popup="
                 openIconImage: /assets/information-button.png;
                 closeIconImage: /assets/information-button.png;
                 title: Instructions;
@@ -97,150 +111,505 @@
                 \n The fly mode is activated, so if you go forward (W) or backward (S) you will fly to the 'look' direction
                 \n To move the angle of the camera, click on the scene and move the mouse, following an orbital movement.
                 \n There are no limits outside the lounge, so please, don't fly far away from the city.
-                \n To interact with the city, just click/hover on the buildings/quarters (more information in the below panel)
+                \n To interact with the chart, just click/hover on the bars/balls.
                 \n If you wan to reset the view, just refresh (F5) the page.
                 " babia-lookat="[camera]"></a-entity>
   
-
                 <!-- Aframe Lounge -->
-                <a-entity id="lounge" position="5 0 0" lounge="width: 40; depth: 50; height: 10;
-                            north: barrier; 
-                            floorTexture: assets/floor-texture.jpg">
-                        
-                        <!-- Costa Rica -->
+                <a-entity id="lounge" position="5 0 0" lounge="width: 40; depth: 70; height: 15; north: barrier; floorTexture: assets/floor-texture.jpg">        
+                            
+                        <!-- Central America -->
 
-                        <!-- School enrollment, primary and secondary (gross), gender parity index (GPI)  -->
-                        <a-entity position="0 0 -8" lounge-plinth="width: 9.5; depth: 4" lounge-staydown>
-                                <a-entity id="bar"
-                                        babia-bars='legend: true; axis: true; heightMax: 15; from: CREnrollmentGPI; x_axis: date; height: value'
-                                        position="-2.25 0.275 0" rotation="0 0 0" scale="0.5 0.5 0.5"></a-entity>
-                        </a-entity>
+                        <a-image src="#central-america-flag" width="6" height="6" position="19.8 4 -27" rotation="0 270 0"></a-image>
 
-
-
-                        <!-- Literacy rate, adult female (% of females ages 15 and above) -->
-                        <a-entity position="-10 0 -18" lounge-plinth="width: 9.5; depth: 4" lounge-staydown>
-                                <a-entity id="bar3"
-                                        babia-bars='legend: true; axis: true; heightMax: 15; from: CRLiteracyFe; x_axis: date; height: value'
-                                        position="-2.25 0.275 0" rotation="0 0 0" scale="0.5 0.5 0.5"></a-entity>
-                        </a-entity>
-
-                        <!-- Literacy rate, adult male (% of females ages 15 and above) -->
-                        <a-entity position="0 0 -18" lounge-plinth="width: 9.5; depth: 4" lounge-staydown>
-                                <a-entity id="bar4"
-                                        babia-bars='legend: true; axis: true; heightMax: 15; from: CRLiteracyMale; x_axis: date; height: value'
-                                        position="-2.25 0.275 0" rotation="0 0 0" scale="0.5 0.5 0.5"></a-entity>
-                        </a-entity>
-
-                        <!-- Primary completion rate, female (% of relevant age group) -->
-                        <a-entity position="0 0 0" lounge-plinth="width: 9.5; depth: 4" lounge-staydown>
-                                <a-entity id="bar4"
-                                        babia-bars='legend: true; axis: true; heightMax: 15; from: CRPrimaryFe; x_axis: date; height: value'
-                                        position="-2.25 0.275 0" rotation="0 0 0" scale="0.5 0.5 0.5"></a-entity>
-                        </a-entity>
-
-                        <!-- Primary completion rate, male (% of relevant age group) -->
-                        <a-entity position="-10 0 0" lounge-plinth="width: 9.5; depth: 4" lounge-staydown>
-                                <a-entity id="bar4"
-                                        babia-bars='legend: true; axis: true; heightMax: 15; from: CRPrimaryMa; x_axis: date; height: value'
-                                        position="-2.25 0.275 0" rotation="0 0 0" scale="0.5 0.5 0.5"></a-entity>
-                        </a-entity>
-
-
-
-
-
-
-                        
-
-
-
-
-
-
-
-                        <!-- Comparisons -->
-
-                        <a-entity position="10 0 -8" lounge-plinth="width: 8d; depth: 8" lounge-staydown rotation="0 180 0">
+                        <!-- School enrollment, primary and secondary ( % gross) Bars 1 -->
+                        <a-entity position="18 4 -30" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0">
                                 <a-entity id="3dbar"
-                                        babia-barsmap='from: CAGovExp; 
-                                        x_axis: countryiso3code; z_axis: date; 
-                                        height: value; legend: true; 
-                                        palette: bussiness; animation: true;
-                                        heightMax:35'
-                                        position="-1.062 0.275 -1.887" rotation="0 0 0" scale="0.4 0.4 0.4"></a-entity>
+                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                                from: CAEnrollment;
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"]   ; animation: false; heightMax:35;'
+                                position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                        </a-entity>      
+
+
+                        <!-- Repeaters, primary, total (% of total enrollment) 2 -->
+                        <a-entity position="18 4 -22" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0">
+                                <a-entity id="3dbar"
+                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                                from: CARepeaters;
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false; heightMax:35;'
+                                position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
                         </a-entity>
+                        
 
-                        <a-entity position="17 0 -8" lounge-plinth="width: 4; depth: 10" lounge-staydown>s
-                                <a-entity id="bubbles"
-                                        babia-bubbles='legend: true; palette: ubuntu; radiusMax: 2.2; heightMax: 30; from: CAGovExp;
-                                         x_axis: countryiso3code; z_axis: date; height: value; radius: unit'
-                                        position="-1 0.275 -3.2" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>
-                        </a-entity>
+                        <!-- School enrollment, primary and secondary ( % gross) Balls 3 -->                        
+                        <a-entity id="ball" babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: CAEnrollment;
+                                        x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false;'
+                                        position="19 -4.5 -33" rotation="0 0 0" scale="0.03 0.03 0.03" ></a-entity>        
+                                                                                    
+
+                        <!-- Literacy rate, adult total (% of people ages 15 and above) 4 -->
+                        <a-entity id="3dbar"
+                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                                from: CALiteracy;
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false; heightMax:35;'
+                                position="19 -4.5 -25" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>
+
+
+                        <!-- Government expenditure on education, total (% of GDP) 5 -->
+                          <a-entity id="bar"
+                          babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: CAExpenditure;
+                          x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false;'
+                                  position="19 -2.5 -25" rotation="0 0 0" scale="0.03 0.03 0.03"></a-entity>        
+
+
+                        <!-- Unemployment with advanced education (% of total labor force with advanced education) -->
+                        <a-entity id="bar"
+                                babia-barsmap='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: CAUnemployment;
+                                  x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce"] ; animation: false;'
+                                          position="19 -2.5 -33" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>       
+                                
+
+
+                       <!-- Europe -->
+
+                       <a-image src="#europe-flag" width="6" height="6" position="19.8 4 -7" rotation="0 270 0"></a-image>
+
+                       <!-- School enrollment, primary and secondary ( % gross) Bars 1 -->
+                       <a-entity position="18 4 -10" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0">
+                               <a-entity id="3dbar"
+                               babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                               from: EUEnrollment;
+                               legend: true; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false; heightMax:35;'
+                               position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                       </a-entity>      
+
+
+                       <!-- Repeaters, primary, total (% of total enrollment) 2 -->
+                       <a-entity position="18 4 -2" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0">
+                               <a-entity id="3dbar"
+                               babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                               from: EURepeaters;
+                               legend: true; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false; heightMax:35;'
+                               position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                       </a-entity>
+                       
+
+                       <!-- School enrollment, primary and secondary ( % gross) Balls 3 -->                        
+                       <a-entity id="ball" babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: EUEnrollment;
+                                       x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false;'
+                                       position="19 -4.5 -13" rotation="0 0 0" scale="0.03 0.03 0.03" ></a-entity>        
+                                                                                   
+
+                       <!-- Literacy rate, adult total (% of people ages 15 and above) 4 -->
+                       <a-entity id="3dbar"
+                               babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                               from: EULiteracy;
+                               legend: true; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false; heightMax:35;'
+                               position="19 -4.5 -5" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>
+
+
+                       <!-- Government expenditure on education, total (% of GDP) 5 -->
+                         <a-entity id="bar"
+                         babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: EUExpenditure;
+                         x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false;'
+                                 position="19 -2.5 -5" rotation="0 0 0" scale="0.03 0.03 0.03"></a-entity>        
+
+
+                       <!-- Unemployment with advanced education (% of total labor force with advanced education) -->
+                       <a-entity id="bar"
+                               babia-barsmap='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: EUUnemployment;
+                                 x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#1e7433", "#0136fe", "#f0f126", "#640310"]; animation: false;'
+                                         position="19 -2.5 -13" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>       
+
+
+                       
+
+
+                        <!-- Africa -->
+
+                       <a-image src="#africa-flag" width="6" height="6" position="19.8 4 13" rotation="0 270 0"></a-image>
+
+                       <!-- School enrollment, primary and secondary ( % gross) Bars 1 -->
+                       <a-entity position="18 4 10" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0">
+                               <a-entity id="3dbar"
+                               babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                               from: AFEnrollment;
+                               legend: true; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
+                               position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                       </a-entity>      
+
+
+                       <!-- Repeaters, primary, total (% of total enrollment) 2 -->
+                       <a-entity position="18 4 18" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0">
+                               <a-entity id="3dbar"
+                               babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                               from: AFRepeaters;
+                               legend: true; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
+                               position="-3.25 0.275 0" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                       </a-entity>
+                       
+
+                       <!-- School enrollment, primary and secondary ( % gross) Balls 3 -->                        
+                       <a-entity id="ball" babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: AFEnrollment;
+                                       x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
+                                       position="19 -4.5 7" rotation="0 0 0" scale="0.03 0.03 0.03" ></a-entity>        
+                                                                                   
+
+                       <!-- Literacy rate, adult total (% of people ages 15 and above) 4 -->
+                       <a-entity id="3dbar"
+                               babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                               from: AFLiteracy;
+                               legend: true; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
+                               position="19 -4.5 15" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>
+
+
+                       <!-- Government expenditure on education, total (% of GDP) 5 -->
+                         <a-entity id="bar"
+                         babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: AFExpenditure;
+                         x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
+                                 position="19 -2.5 15" rotation="0 0 0" scale="0.03 0.03 0.03"></a-entity>        
+
+
+                       <!-- Unemployment with advanced education (% of total labor force with advanced education) -->
+                       <a-entity id="bar"
+                               babia-barsmap='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: AFUnemployment;
+                                 x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
+                                         position="19 -2.5 7" rotation="0 0 0" scale="0.12 0.12 0.12"></a-entity>       
 
 
 
+                        <!-- ALL -->
 
+                        <!-- School enrollment, primary and secondary ( % gross) -->
+                        <a-entity position="6 4 -20" lounge-plinth="width: 8.5; depth: 4" lounge-staydown rotation="0 270 0">
+                                <a-entity id="3dbar"
+                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                                from: ALLEnrollment;
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
+                                position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                        </a-entity>      
+
+
+                        <!-- Repeaters, primary, total (% of total enrollment) -->
+                        <a-entity position="6 4 -10" lounge-plinth="width: 8.5; depth: 4" lounge-staydown rotation="0 270 0">
+                                <a-entity id="3dbar"
+                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                                from: ALLRepeaters;
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
+                                position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                        </a-entity>    
+
+
+                        <!-- Literacy rate, adult total (% of people ages 15 and above) -->
+                        <a-entity position="6 4 0" lounge-plinth="width: 8.5; depth: 4" lounge-staydown rotation="0 270 0">
+                                <a-entity id="3dbar"
+                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                                from: ALLLiteracy;
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
+                                position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                        </a-entity>  
+
+                        <!-- Government expenditure on education, total (% of GDP)-->
+                        <a-entity position="6 4 10" lounge-plinth="width: 8.5; depth: 4" lounge-staydown rotation="0 270 0">
+                                <a-entity id="3dbar"
+                                babia-bubbles='legend: true; axis: true; radiusMax: 2; heightMax: 30; from: ALLExpenditure;
+                                x_axis: countryiso3code; z_axis: date; height: value; radius: value; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false;'
+                                position="-3.25 0.275 1" rotation="0 90 0" scale="0.03 0.03 0.03"></a-entity>
+                        </a-entity>  
+
+
+                          <!-- Unemployment with advanced education (% of total labor force with advanced education) -->
+                          <a-entity position="6 4 20" lounge-plinth="width: 8.5; depth: 4" lounge-staydown rotation="0 270 0">
+                                <a-entity id="3dbar"
+                                babia-barsmap='x_axis: countryiso3code; z_axis: date; height: value; radius: value;
+                                from: ALLUnemployment;
+                                legend: true; palette: ["#d63129", "#489db7", "#1701c3", "#d2d5ce", "#1e7433", "#0136fe", "#f0f126", "#640310", "#38c73c", "#53d15f", "#144a19", "#ff6674"]; animation: false; heightMax:35;'
+                                position="-3.25 0.275 1" rotation="0 90 0" scale="0.12 0.12 0.12"></a-entity>
+                        </a-entity>  
+
+                                
                 </a-entity>
 
+                <!-- Central America -->
 
-                <a-entity id="bardescription" position="18dd -4.1 -4" rotation="-30 0 0">
+                <!-- School enrollment, primary and secondary ( % gross) Balls Platform -->
+                <a-entity  position="24 -4.8 -30" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- School enrollment vs Repeaters, primary, total (% of total enrollment) Platform -->
+                <a-entity  position="24 -4.8 -22" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- Literacy rate, adult total (% of people ages 15 and above) Platform -->
+                <a-entity  position="24 -2.8 -30" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- Government expenditure on education, total (% of GDP) Platform-->
+                <a-entity  position="24 -2.8 -22" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- School enrollment, primary and secondary ( % gross) Description -->
+                <a-entity id="bardescription" position="22 -6.5 -30" rotation="-30 270 0" scale="0.3 0.3 0.3">
                         <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
                         <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
                         <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
-                                <h1>Central America Government expenditure on education, total (% of GDP)</h1>
+                                <h1>Central America - School enrollment, primary (% gross)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- School enrollment, primary and secondary ( % gross) Description Balls -->
+                <a-entity id="bardescription" position="23 -4.1 -30" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Central America (Bubbles) - School enrollment, primary (% gross)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+               <!-- Repeaters, primary, total (% of total enrollment) Description -->
+               <a-entity id="bardescription" position="22 -6.5 -22" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Central America - Repeaters, primary, total (% of total enrollment)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Repeaters, primary, total (% of total enrollment) Description -->
+               <a-entity id="bardescription" position="23 -4.1 -22" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Central America - Literacy rate, adult total (% of people ages 15 and above)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Literacy rate, adult total (% of people ages 15 and above) Description -->
+                <a-entity id="bardescription" position="23 -2.1 -30" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Central America - Unemployment with advanced education (% of total labor force with advanced education)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Government expenditure on education, total (% of GDP) Description -->
+               <a-entity id="bardescription" position="23 -2.1 -22" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Central America - Government expenditure on education, total (% of GDP)</h1>                               
                                 </p>
                         </a-entity>
                 </a-entity>
 
 
-                <a-entity id="bardescription" position="8 -4.1 -6" rotation="-30 0 0">
+
+                <!-- Europe -->
+
+                <!-- School enrollment, primary and secondary ( % gross) Balls Platform -->
+                <a-entity  position="24 -4.8 -10" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- School enrollment vs Repeaters, primary, total (% of total enrollment) Platform -->
+                <a-entity  position="24 -4.8 -2" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- Literacy rate, adult total (% of people ages 15 and above) Platform -->
+                <a-entity  position="24 -2.8 -10" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- Government expenditure on education, total (% of GDP) Platform-->
+                <a-entity  position="24 -2.8 -2" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- School enrollment, primary and secondary ( % gross) Description -->
+                <a-entity id="bardescription" position="22 -6.5 -10" rotation="-30 270 0" scale="0.3 0.3 0.3">
                         <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
                         <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
                         <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
-                                <h1>Costa Rica School enrollment, primary and secondary (gross), gender parity index (GPI) </h1>
+                                <h1>Europe - School enrollment, primary (% gross)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- School enrollment, primary and secondary ( % gross) Description Balls -->
+                <a-entity id="bardescription" position="23 -4.1 -10" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Europe (Bubbles) - School enrollment, primary (% gross)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+               <!-- Repeaters, primary, total (% of total enrollment) Description -->
+               <a-entity id="bardescription" position="22 -6.5 -2" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Europe - Repeaters, primary, total (% of total enrollment)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Repeaters, primary, total (% of total enrollment) Description -->
+               <a-entity id="bardescription" position="23 -4.1 -2" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Europe - Literacy rate, adult total (% of people ages 15 and above)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Literacy rate, adult total (% of people ages 15 and above) Description -->
+                <a-entity id="bardescription" position="23 -2.1 -10" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Europe - Unemployment with advanced education (% of total labor force with advanced education)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Government expenditure on education, total (% of GDP) Description -->
+               <a-entity id="bardescription" position="23 -2.1 -2" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Europe - Government expenditure on education, total (% of GDP)</h1>                               
                                 </p>
                         </a-entity>
                 </a-entity>
 
 
+                <!-- Africa -->
 
-                <a-entity id="bardescription3" position="-2 -4.1 -16" rotation="-30 0 0">
+                <!-- School enrollment, primary and secondary ( % gross) Balls Platform -->
+                <a-entity  position="24 -4.8 10" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- School enrollment vs Repeaters, primary, total (% of total enrollment) Platform -->
+                <a-entity  position="24 -4.8 18" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- Literacy rate, adult total (% of people ages 15 and above) Platform -->
+                <a-entity  position="24 -2.8 10" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- Government expenditure on education, total (% of GDP) Platform-->
+                <a-entity  position="24 -2.8 18" lounge-plinth="width: 8.5; depth: 2" lounge-staydown rotation="0 270 0"></a-entity>
+
+                <!-- School enrollment, primary and secondary ( % gross) Description -->
+                <a-entity id="bardescription" position="22 -6.5 10" rotation="-30 270 0" scale="0.3 0.3 0.3">
                         <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
                         <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
                         <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
-                                <h1>Costa Rica Literacy rate, adult female (% of females ages 15 and above) </h1>                        
+                                <h1>Africa - School enrollment, primary (% gross)</h1>                               
                                 </p>
                         </a-entity>
                 </a-entity>
 
-                <a-entity id="bardescription" position="8 -4.1 -16" rotation="-30 0 0">
+                <!-- School enrollment, primary and secondary ( % gross) Description Balls -->
+                <a-entity id="bardescription" position="23 -4.1 10" rotation="-30 270 0" scale="0.3 0.3 0.3">
                         <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
                         <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
                         <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
-                                <h1>Costa Rica Literacy rate, adult male (% of males ages 15 and above)</h1>
+                                <h1>Africa (Bubbles) - School enrollment, primary (% gross)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+               <!-- Repeaters, primary, total (% of total enrollment) Description -->
+               <a-entity id="bardescription" position="22 -6.5 18" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Africa - Repeaters, primary, total (% of total enrollment)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Repeaters, primary, total (% of total enrollment) Description -->
+               <a-entity id="bardescription" position="23 -4.1 18" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Africa - Literacy rate, adult total (% of people ages 15 and above)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Literacy rate, adult total (% of people ages 15 and above) Description -->
+                <a-entity id="bardescription" position="23 -2.1 10" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Africa - Unemployment with advanced education (% of total labor force with advanced education)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- Government expenditure on education, total (% of GDP) Description -->
+               <a-entity id="bardescription" position="23 -2.1 18" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>Africa - Government expenditure on education, total (% of GDP)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+                <!-- ALL -->
+
+
+                <a-entity id="bardescription" position="9 -6.5 -20" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>All Continents - School enrollment, primary (% gross)</h1>                               
                                 </p>
                         </a-entity>
                 </a-entity>
 
 
-                <a-entity id="bardescription" position="8 -4.1 2" rotation="-30 0 0">
+                <a-entity id="bardescription" position="9 -6.5 -10" rotation="-30 270 0" scale="0.3 0.3 0.3">
                         <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
                         <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
                         <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
-                                <h1>Costa Rica Primary completion rate, female (% of relevant age group)</h1>
+                                <h1>All Continents - Repeaters, primary, total (% of total enrollment)</h1>                               
                                 </p>
                         </a-entity>
                 </a-entity>
 
-                <a-entity id="bardescription" position="-2 -4.1 2" rotation="-30 0 0">
+
+                <a-entity id="bardescription" position="9 -6.5 0" rotation="-30 270 0" scale="0.3 0.3 0.3">
                         <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
                         <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
                         <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
-                                <h1>Costa Rica Primary completion rate, male (% of relevant age group)</h1>
+                                <h1>All Continents - Literacy rate, adult total (% of people ages 15 and above)</h1>                               
                                 </p>
                         </a-entity>
                 </a-entity>
+
+
+                <a-entity id="bardescription" position="9 -6.5 10" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>All Continents - Government expenditure on education, total (% of GDP)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+
+
+                <a-entity id="bardescription" position="9 -6.5 20" rotation="-30 270 0" scale="0.3 0.3 0.3">
+                        <a-box src="#floor" height="2" width="2" depth="0.1" position="0 0 0"></a-box>
+                        <a-box src="#metalic" height="1.8" width="1.8" depth="0.05" position="0 0 0.05"></a-box>
+                        <a-entity htmlembed position="0 0.1 0.1" style="width: 380px; height: 400px;">
+                                <h1>All Continents - Unemployment with advanced education (% of total labor force with advanced education)</h1>                               
+                                </p>
+                        </a-entity>
+                </a-entity>
+                
+
+        </a-entity>
 
 
                 <!-- Lights -->
@@ -248,8 +617,8 @@
 
                 <!-- Controls and Camera -->
                 <a-entity lounge-entry-point>
-                        <a-entity movement-controls="fly: true" position="3 -3.5 0">
-                                <a-entity camera position="0 0 0" look-controls></a-entity>
+                        <a-entity movement-controls="fly: true" position="-20 -2 30">
+                                <a-entity camera position="18 4 -20" look-controls></a-entity>
                                 <a-entity cursor="rayOrigin:mouse" raycaster="objects: .babiaxraycasterclass">
                                 </a-entity>
                                 <a-entity laser-controls="hand: right" oculus-touch-controls="hand: right" raycaster="objects: .babiaxraycasterclass">

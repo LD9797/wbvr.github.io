@@ -1,0 +1,2754 @@
+[
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1980",
+        "value": 105.690971374512,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1981",
+        "value": 103.281387329102,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1982",
+        "value": 102.328323364258,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1983",
+        "value": 100.867279052734,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1984",
+        "value": 101.036277770996,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1985",
+        "value": 100.687660217285,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1986",
+        "value": 101.045402526855,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1987",
+        "value": 101.140739440918,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1988",
+        "value": 100.246551513672,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1989",
+        "value": 101.094711303711,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1990",
+        "value": 100.670806884766,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1991",
+        "value": 99.7339324951172,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1992",
+        "value": 99.8160018920898,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1993",
+        "value": 100.124099731445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1994",
+        "value": 99.4328689575195,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1995",
+        "value": 99.4306869506836,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1996",
+        "value": 100.961616516113,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "1999",
+        "value": 104.396537780762,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2000",
+        "value": 105.668067932129,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2001",
+        "value": 106.8896484375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2002",
+        "value": 108.837837219238,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2003",
+        "value": 107.537559509277,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2004",
+        "value": 108.610801696777,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2005",
+        "value": 107.21019744873,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2006",
+        "value": 107.442756652832,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2007",
+        "value": 108.534080505371,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2008",
+        "value": 107.401443481445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2009",
+        "value": 105.731109619141,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2010",
+        "value": 105.110610961914,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2011",
+        "value": 104.532699584961,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2012",
+        "value": 103.29118347168,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2013",
+        "value": 102.205772399902,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2014",
+        "value": 99.135368347168,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2015",
+        "value": 96.0771331787109,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2016",
+        "value": 93.1219787597656,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2017",
+        "value": 94.385986328125,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2018",
+        "value": 98.5407028198242,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2019",
+        "value": 103.787506103516,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2020",
+        "value": 94.6701431274414,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2021",
+        "value": 102.951835632324,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PA",
+            "value": "Panama"
+        },
+        "countryiso3code": "PAN",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1980",
+        "value": 85.8413696289063,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1982",
+        "value": 86.5639266967773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1983",
+        "value": 88.3237533569336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1984",
+        "value": 85.277587890625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1985",
+        "value": 87.0967407226563,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1986",
+        "value": 84.2290267944336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1987",
+        "value": 86.084342956543,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1988",
+        "value": 86.1723709106445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1989",
+        "value": 83.3193893432617,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1990",
+        "value": 86.2869491577148,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1991",
+        "value": 89.7563400268555,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1992",
+        "value": 91.8308410644531,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1993",
+        "value": 94.6694488525391,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1994",
+        "value": 97.1633911132813,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1995",
+        "value": 96.2748565673828,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1996",
+        "value": 95.7251281738281,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1997",
+        "value": 97.3426895141602,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1998",
+        "value": 97.6476211547852,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "1999",
+        "value": 103.170402526855,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2000",
+        "value": 103.880348205566,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2001",
+        "value": 107.492408752441,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2002",
+        "value": 114.542472839355,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2003",
+        "value": 115.519470214844,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2004",
+        "value": 118.111061096191,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2005",
+        "value": 119.47575378418,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2006",
+        "value": 123.807006835938,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2007",
+        "value": 123.147583007813,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2008",
+        "value": 122.77131652832,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2010",
+        "value": 120.640426635742,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2011",
+        "value": 120.970184326172,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2012",
+        "value": 118.20630645752,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2013",
+        "value": 115.099052429199,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2014",
+        "value": 114.033905029297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2015",
+        "value": 110.570747375488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2016",
+        "value": 114.512832641602,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2017",
+        "value": 115.94401550293,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2018",
+        "value": 113.532127380371,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2019",
+        "value": 112.727363586426,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2020",
+        "value": 112.140602111816,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "NI",
+            "value": "Nicaragua"
+        },
+        "countryiso3code": "NIC",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1980",
+        "value": 95.3694763183594,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1981",
+        "value": 94.7828979492188,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1982",
+        "value": 100.829856872559,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1983",
+        "value": 102.3837890625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1984",
+        "value": 103.83332824707,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1985",
+        "value": 104.459030151367,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1986",
+        "value": 107.030296325684,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1988",
+        "value": 107.166770935059,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1990",
+        "value": 104.535346984863,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1991",
+        "value": 104.130271911621,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1992",
+        "value": 107.375312805176,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1993",
+        "value": 108.326713562012,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1994",
+        "value": 107.915832519531,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1995",
+        "value": 105.74095916748,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1996",
+        "value": 106.200286865234,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1997",
+        "value": 106.378921508789,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1998",
+        "value": 105.503448486328,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "1999",
+        "value": 104.632362365723,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2000",
+        "value": 103.76309967041,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2003",
+        "value": 108.743209838867,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2004",
+        "value": 106.267219543457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2005",
+        "value": 101.749229431152,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2006",
+        "value": 104.690086364746,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2007",
+        "value": 99.8438186645508,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2008",
+        "value": 100.927047729492,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2009",
+        "value": 99.794807434082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2010",
+        "value": 100.658950805664,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2011",
+        "value": 99.6456985473633,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2012",
+        "value": 96.5267486572266,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "HN",
+            "value": "Honduras"
+        },
+        "countryiso3code": "HND",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1980",
+        "value": 105.6552734375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1981",
+        "value": 105.773590087891,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1982",
+        "value": 102.826759338379,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1983",
+        "value": 101.032356262207,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1984",
+        "value": 99.7848663330078,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1985",
+        "value": 99.3894882202148,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1986",
+        "value": 100.325729370117,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1987",
+        "value": 100.198707580566,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1988",
+        "value": 101.072608947754,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1989",
+        "value": 101.093070983887,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1990",
+        "value": 101.311073303223,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1991",
+        "value": 102.596740722656,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1992",
+        "value": 103.696807861328,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1993",
+        "value": 103.96337890625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1994",
+        "value": 103.750137329102,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1995",
+        "value": 103.871856689453,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1996",
+        "value": 104.196571350098,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1997",
+        "value": 104.138389587402,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1998",
+        "value": 104.279777526855,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "1999",
+        "value": 112.088119506836,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2000",
+        "value": 109.104423522949,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2001",
+        "value": 109.812721252441,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2002",
+        "value": 109.201606750488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2004",
+        "value": 113.814331054688,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2005",
+        "value": 111.861846923828,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2006",
+        "value": 114.123260498047,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2007",
+        "value": 113.689033508301,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2008",
+        "value": 115.351806640625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2009",
+        "value": 116.951751708984,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2010",
+        "value": 116.899368286133,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2011",
+        "value": 115.888191223145,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2012",
+        "value": 114.669548034668,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2013",
+        "value": 112.320190429688,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2014",
+        "value": 111.772857666016,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2015",
+        "value": 111.297950744629,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2016",
+        "value": 111.761138916016,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2017",
+        "value": 110.833473205566,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2018",
+        "value": 113.294288635254,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2019",
+        "value": 116.182289123535,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2020",
+        "value": 115.005317687988,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2021",
+        "value": 106.663421630859,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "CR",
+            "value": "Costa Rica"
+        },
+        "countryiso3code": "CRI",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]

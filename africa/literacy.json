@@ -1,0 +1,2754 @@
+[
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1980",
+        "value": 76.2004928588867,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1996",
+        "value": 82.402099609375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2007",
+        "value": 88.7172470092773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2009",
+        "value": 92.8948593139648,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2010",
+        "value": 92.8773193359375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2011",
+        "value": 93.1021423339844,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2012",
+        "value": 93.7294692993164,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2014",
+        "value": 94.1399002075195,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2015",
+        "value": 94.367919921875,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2017",
+        "value": 87.0466690063477,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2019",
+        "value": 95.0229721069336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "ZA",
+            "value": "South Africa"
+        },
+        "countryiso3code": "ZAF",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1991",
+        "value": 55.4467506408691,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2003",
+        "value": 54.7731781005859,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2006",
+        "value": 70.1983489990234,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2008",
+        "value": 51.0776596069336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2018",
+        "value": 62.0160102844238,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "NG",
+            "value": "Nigeria"
+        },
+        "countryiso3code": "NGA",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2000",
+        "value": 82.2290802001953,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2007",
+        "value": 72.1570281982422,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2014",
+        "value": 78.733039855957,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2018",
+        "value": 81.5349731445313,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2021",
+        "value": 82.620002746582,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "KE",
+            "value": "Kenya"
+        },
+        "countryiso3code": "KEN",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1986",
+        "value": 44.4239883422852,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1996",
+        "value": 55.5870018005371,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2005",
+        "value": 67.3318710327148,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2006",
+        "value": 66.3699111938477,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2010",
+        "value": 72.0478515625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2012",
+        "value": 73.865592956543,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2013",
+        "value": 72.442497253418,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2017",
+        "value": 71.1682510375977,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2021",
+        "value": 73.0899963378906,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.ADT.LITR.ZS",
+            "value": "Literacy rate, adult total (% of people ages 15 and above)"
+        },
+        "country": {
+            "id": "EG",
+            "value": "Egypt, Arab Rep."
+        },
+        "countryiso3code": "EGY",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]

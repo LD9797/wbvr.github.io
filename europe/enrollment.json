@@ -1,0 +1,2754 @@
+[
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1980",
+        "value": 120.813407897949,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1981",
+        "value": 120.514572143555,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1982",
+        "value": 118.795867919922,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1983",
+        "value": 119.063842773438,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1984",
+        "value": 118.250900268555,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1985",
+        "value": 127.052017211914,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1986",
+        "value": 125.485771179199,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1987",
+        "value": 127.956657409668,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1988",
+        "value": 126.549263000488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1990",
+        "value": 121.702430725098,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1991",
+        "value": 119.568809509277,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1992",
+        "value": 122.20979309082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1993",
+        "value": 120.060699462891,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1994",
+        "value": 121.207153320313,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1995",
+        "value": 120.984107971191,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1996",
+        "value": 121.032760620117,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1998",
+        "value": 122.48754119873,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "1999",
+        "value": 122.146812438965,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2000",
+        "value": 123.120323181152,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2001",
+        "value": 122.934837341309,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2002",
+        "value": 119.026901245117,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2003",
+        "value": 119.462760925293,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2004",
+        "value": 118.569122314453,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2005",
+        "value": 118.081520080566,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2006",
+        "value": 118.002601623535,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2007",
+        "value": 117.005432128906,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2008",
+        "value": 115.689910888672,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2009",
+        "value": 113.17333984375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2010",
+        "value": 111.589218139648,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2011",
+        "value": 110.769920349121,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2012",
+        "value": 109.617477416992,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2013",
+        "value": 109.518310546875,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2014",
+        "value": 108.102592468262,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2015",
+        "value": 106.962631225586,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2016",
+        "value": 105.737518310547,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2017",
+        "value": 106.183128356934,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2018",
+        "value": 106.826728820801,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2019",
+        "value": 107.392883300781,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2020",
+        "value": 107.737411499023,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "PT",
+            "value": "Portugal"
+        },
+        "countryiso3code": "PRT",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1980",
+        "value": 110.418968200684,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1981",
+        "value": 109.885200500488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1982",
+        "value": 108.85131072998,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1983",
+        "value": 106.85368347168,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1984",
+        "value": 106.24291229248,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1985",
+        "value": 106.12523651123,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1986",
+        "value": 109.183479309082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1987",
+        "value": 111.754692077637,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1988",
+        "value": 113.744720458984,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1989",
+        "value": 113.79907989502,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1990",
+        "value": 111.446891784668,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1991",
+        "value": 108.807662963867,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1992",
+        "value": 106.427093505859,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1993",
+        "value": 104.381767272949,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1994",
+        "value": 104.787628173828,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1995",
+        "value": 105.26587677002,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1996",
+        "value": 106.13069152832,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1997",
+        "value": 105.125053405762,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1998",
+        "value": 105.206451416016,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "1999",
+        "value": 100.809257507324,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2000",
+        "value": 100.428260803223,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2001",
+        "value": 100.382209777832,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2002",
+        "value": 100.249298095703,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2003",
+        "value": 99.9754486083984,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2004",
+        "value": 99.8111801147461,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2005",
+        "value": 104.636489868164,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2006",
+        "value": 104.278846740723,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2007",
+        "value": 103.85977935791,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2008",
+        "value": 103.622146606445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2009",
+        "value": 103.041137695313,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2010",
+        "value": 102.761512756348,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2011",
+        "value": 102.691101074219,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2012",
+        "value": 102.523162841797,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2013",
+        "value": 102.276443481445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2014",
+        "value": 101.280349731445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2015",
+        "value": 101.989639282227,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2016",
+        "value": 102.260429382324,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2017",
+        "value": 102.417221069336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2018",
+        "value": 102.464408874512,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2019",
+        "value": 102.539482116699,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2020",
+        "value": 102.811149597168,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "FR",
+            "value": "France"
+        },
+        "countryiso3code": "FRA",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1980",
+        "value": 109.227081298828,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1981",
+        "value": 108.705513000488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1982",
+        "value": 109.316162109375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1983",
+        "value": 109.411628723145,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1984",
+        "value": 108.993873596191,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1985",
+        "value": 108.628616333008,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1986",
+        "value": 107.341438293457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1987",
+        "value": 106.935447692871,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1988",
+        "value": 104.565689086914,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1989",
+        "value": 104.465179443359,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1990",
+        "value": 104.473052978516,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1991",
+        "value": 105.300537109375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1992",
+        "value": 104.691581726074,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1993",
+        "value": 106.485206604004,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1994",
+        "value": 106.158531188965,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1995",
+        "value": 105.081520080566,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1996",
+        "value": 104.77668762207,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1997",
+        "value": 104.282859802246,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1998",
+        "value": 104.421028137207,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "1999",
+        "value": 104.546691894531,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2000",
+        "value": 104.503059387207,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2001",
+        "value": 104.024620056152,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2002",
+        "value": 103.599098205566,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2003",
+        "value": 103.423858642578,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2004",
+        "value": 103.647331237793,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2005",
+        "value": 103.056991577148,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2006",
+        "value": 103.723320007324,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2007",
+        "value": 104.151588439941,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2008",
+        "value": 104.660797119141,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2009",
+        "value": 104.588882446289,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2010",
+        "value": 103.975578308105,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2011",
+        "value": 104.555648803711,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2012",
+        "value": 105.240180969238,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2013",
+        "value": 108.193778991699,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2014",
+        "value": 107.152038574219,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2015",
+        "value": 106.363990783691,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2016",
+        "value": 104.214172363281,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2017",
+        "value": 102.710289001465,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2018",
+        "value": 101.989349365234,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2019",
+        "value": 102.402519226074,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2020",
+        "value": 103.383293151855,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "ES",
+            "value": "Spain"
+        },
+        "countryiso3code": "ESP",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1991",
+        "value": 101.677627563477,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1992",
+        "value": 99.1563491821289,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1993",
+        "value": 100.836311340332,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1994",
+        "value": 100.42781829834,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1995",
+        "value": 101.376121520996,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1996",
+        "value": 102.579689025879,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1997",
+        "value": 104.055206298828,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1998",
+        "value": 105.474678039551,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "1999",
+        "value": 105.265037536621,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2000",
+        "value": 105.317108154297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2001",
+        "value": 104.360763549805,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2002",
+        "value": 102.547500610352,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2003",
+        "value": 102.09838104248,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2004",
+        "value": 102.883003234863,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2005",
+        "value": 103.106376647949,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2006",
+        "value": 104.213256835938,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2007",
+        "value": 104.786338806152,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2008",
+        "value": 104.023979187012,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2009",
+        "value": 103.396423339844,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2010",
+        "value": 102.995880126953,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2011",
+        "value": 102.46656036377,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2012",
+        "value": 101.614196777344,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2013",
+        "value": 100.838249206543,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2014",
+        "value": 100.538642883301,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2015",
+        "value": 101.667449951172,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2016",
+        "value": 102.677558898926,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2017",
+        "value": 104.022361755371,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2018",
+        "value": 103.894561767578,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2019",
+        "value": 102.516181945801,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2020",
+        "value": 101.099060058594,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "SE.PRM.ENRR",
+            "value": "School enrollment, primary (% gross)"
+        },
+        "country": {
+            "id": "DE",
+            "value": "Germany"
+        },
+        "countryiso3code": "DEU",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]
