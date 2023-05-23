@@ -11,7 +11,8 @@ Este repositorio presenta un ambiente web de realidad virtual realizado con la h
     ```
 
 2. Abrir el código descargado con VSCode.
-3. Apretar el botón Go Live ubicado en la esquiena inferior derecha de VSCode: 
+3. Instalar la extensión "Live Server" por Ritwick Dey.
+4. Apretar el botón Go Live ubicado en la esquiena inferior derecha de VSCode: 
     ![](GoLive.png)
 
 Del mismo modo, se puede accesar al link público [https://ld9797.github.io/wbvr.github.io/](https://ld9797.github.io/wbvr.github.io/).
