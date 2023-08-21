@@ -16,3 +16,5 @@ Este repositorio presenta un ambiente web de realidad virtual realizado con la h
     ![](GoLive.png)
 
 Del mismo modo, se puede accesar al link público [https://ld9797.github.io/wbvr.github.io/](https://ld9797.github.io/wbvr.github.io/).
+
+Paper: ![](WBVR-Paper.pdf)
